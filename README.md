@@ -12,7 +12,7 @@
 
 ## Overview
 
-Este é um projeto feito através da plataforma [Codecademy](https://www.codecademy.com/), no qual eu tive que criar um pequeno jogo de adivinhação utilizando o conhecimento de javascript que adquiri até o momento no curso *Front-End Engineer - Career Path*.
+Este é um projeto feito através da plataforma [Codecademy](https://www.codecademy.com/), no qual eu tive que criar um pequeno jogo de adivinhação, utilizando o conhecimento de javascript que adquiri até o momento no curso *Front-End Engineer - Career Path*.
 
 ### Desafio
 
@@ -31,8 +31,8 @@ Os usuários devem:
 
 ### Links
 
-- Solução: [GitHub Repo](https://github.com/lucasfs022/FAQ-Accordion)
-- Live Site URL: [GitHub live site](https://lucasfs022.github.io/FAQ-Accordion/)
+- Solução: [GitHub Repo](https://github.com/lucasfs022/Number-Guesser)
+- Live Site URL: [GitHub live site](https://lucasfs022.github.io/Number-Guesser/)
 
 ## Processo
 
